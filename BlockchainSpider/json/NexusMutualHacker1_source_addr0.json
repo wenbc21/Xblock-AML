@@ -1,0 +1,1 @@
+[{"source": "0x09923e35f19687a524bbca7d42b92b6748534f25", "types": "erc20,external,internal", "fields": "hash,from,to,value,timeStamp,blockNumber,tokenSymbol,contractAddress,isError,gasPrice,gasUsed", "depth": 1}]
